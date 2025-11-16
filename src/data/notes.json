@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread",
+    "category": "Personal",
+    "timestamp": "2025-01-01 10:30 AM"
+  },
+  {
+    "id": 2,
+    "title": "Project meeting",
+    "description": "Discuss API endpoints",
+    "category": "Work",
+    "timestamp": "2025-02-15 02:00 PM"
+  },
+  {
+    "id": 3,
+    "title": "Ideas for blog",
+    "description": "Write on React performance tips",
+    "category": "Ideas",
+    "timestamp": "2025-03-10 08:45 PM"
+  }
+]
